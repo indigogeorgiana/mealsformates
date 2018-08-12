@@ -5,7 +5,8 @@ Next time you eat out at one of our partnered stores, add a little to your bill 
 
 # THE WHAT
 
-Meals for Mates is a non-profit web application aimed at making it easier for people in our cashless society to donate to the homeless
+![thewhat](https://user-images.githubusercontent.com/36146995/44000965-4dc13b1e-9e7d-11e8-9128-2f3a204ef004.png)
+
 
 # THE HOW
 
