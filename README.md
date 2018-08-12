@@ -15,6 +15,4 @@ People in need can then redeem a voucher for a meal from that store
 
 # THE LOOK
 
-
-
-https://user-images.githubusercontent.com/36146995/44000683-b30833ba-9e78-11e8-8a7d-842a17c20d75.png
+![thelook](https://user-images.githubusercontent.com/36146995/44000863-9e591aa8-9e7b-11e8-92bb-6ad8339639d8.png)
